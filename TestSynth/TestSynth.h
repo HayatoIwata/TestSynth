@@ -23,7 +23,7 @@ const int PRESET_NUM = 1;				// プリセットプログラム数（0にしないこと！）
 const int PARAM_NUM = 1;				// パラメーター数
 const int OUTPUT_CH = 2;				// 出力チャンネル数
 const int HI_KEY = 96;					// 最高ノートナンバー
-const int LW_KEY = 48;					// 最低ノートナンバー
+const int LW_KEY = 36;					// 最低ノートナンバー
 const int N_KEY = HI_KEY - LW_KEY + 1;	// 鍵盤数
 const int N_POLY = 10;					// 最大同時発音数
 
